@@ -1,1 +1,1 @@
-# Home-Assignment-Similarity-Index-AWS
+# Cloud-Based-Similarity-Index-using AWS
